@@ -1,0 +1,5 @@
+{
+	"ModulesUrl": ["https://github.com/Azure/azure-quickstart-templates/raw/master/dsc-extension-iis-server-windows-vm/ContosoWebsite.ps1.zip"],
+	"ConfigurationFunction": "ContosoWebsite.ps1\\ContosoWebsite"
+}
+	
